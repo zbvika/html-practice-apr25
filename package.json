@@ -9,5 +9,8 @@
     "@parcel/transformer-sass": "^2.10.2",
     "gh-pages": "^6.1.1",
     "parcel": "^2.10.2"
+  },
+  "dependencies": {
+    "src": "^1.1.2"
   }
 }
